@@ -1,0 +1,98 @@
+{
+    "countries": [
+      {
+        "id": 1,
+        "name": "Venezuela",
+        "temperature": "25 °C",
+        "capitals":"Caracas",
+        "population": "28,4 million",
+        "image": "https://i.imgur.com/x9TmPGW.jpeg",
+        "beach": [
+          {"name": "Los Roques"
+            }]
+     
+      },
+      {
+        "id": 2,
+        "name": "Spain",
+        "temperature": "16 °C",
+        "capitals":"Madrid",
+        "population": "47.35 million",
+        "image": "https://i.imgur.com/MBUQhqy.jpeg",
+        "beach": [
+          {"name": "Playa de Bolonia"
+            }]
+      },
+      {
+        "id": 3,
+        "name": "Italy",
+        "temperature": "17 °C",
+        "capitals":"Roma",
+        "population": "59.4 million",
+        "image": "https://i.imgur.com/hYpXUHR.jpeg",
+        "beach": [
+          {"name": "Amalfi"
+            }]
+      },
+      {
+        "id": 4,
+        "name": "Uruguay",
+        "temperature": "17.5° C",
+        "capitals":"Montevideo",
+        "population": "28,4 million",
+        "image": "https://i.imgur.com/R2QuJSd.jpeg",
+        "beach": [
+          {"name": "Punta del este"
+            }]
+
+      },
+      {
+        "id": 5,
+        "name": "Peru",
+        "temperature": "10.7 °C",
+        "capitals":"Lima",
+        "population": "32.94 million",
+        "image": "https://i.imgur.com/prNxowy.jpeg",
+        "beach": [
+          {"name": "Mancora"
+            }]
+      },
+      {
+        "id": 6,
+        "name": "Estados Unidos de America",
+        "temperature": "13 °C",
+        "capitals":"Washington",
+        "population": "329.5 million",
+        "image": "https://i.imgur.com/x9TmPGW.jpeg",
+        "beach": [
+          {"name": "Miami Beach"
+            }]
+      }
+    ],
+    "scenery": [
+      {
+        "id": 1,
+        "name": "Los Roques",
+        "country": "Venezuela",
+        "poster": "https://i.imgur.com/1Oy7rwI.jpeg"
+      
+      },
+      {   "id": 2,
+        "name": "Playa de las catedrales",
+        "country": "Spain",
+        "poster": "https://i.imgur.com/hTV9JOQ.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Fontana di Trevi",
+        "country": "Italia",
+        "poster": "https://i.imgur.com/yMh8geX.jpeg"
+      },
+      {
+        "id": 4,
+        "name": "Gran Cañon",
+        "country": "USA",
+        "poster": "https://i.imgur.com/I72egpB.jpeg"
+      }
+    ]
+  }
